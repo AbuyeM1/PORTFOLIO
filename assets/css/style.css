@@ -12,7 +12,7 @@ body {
   width: 20%; /* The width is 20%, by default */
 }
 .navbar-toggler {
-  background-color:rgb(105, 45, 45);
+  background-color:dark;
 }
 .main {
   float: left;

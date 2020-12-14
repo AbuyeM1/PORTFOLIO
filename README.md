@@ -57,7 +57,7 @@
        width: 20%; /* The width is 20%, by default */
     }
     .navbar-toggler {
-     background-color:rgb(105, 45, 45);
+     background-color:dark;
     }
    .main 
     {
@@ -73,7 +73,7 @@
         width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
     }
     }
-
+      
 ## Author Links
       
 [LinkedIn](https://www.linkedin.com/in/abuye-mamuye-5a49921b0/)
