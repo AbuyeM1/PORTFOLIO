@@ -1,0 +1,27 @@
+body {
+  background-image: url('../images/bg-image.jpg');
+}
+.title {
+  
+  color:rgb(51, 8, 8);
+  padding: 3%;
+}
+
+ .left, .right {
+  float: left;
+  width: 20%; /* The width is 20%, by default */
+}
+.navbar-toggler {
+  background-color:rgb(105, 45, 45);
+}
+.main {
+  float: left;
+  width: 60%; /* The width is 60%, by default */
+}
+
+/* Use a media query to add a breakpoint at 800px: */
+@media screen and (max-width: 400%) {
+  .left, .main, .right {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
+}
