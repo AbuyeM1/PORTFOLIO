@@ -1,4 +1,16 @@
-## RESPONSIVE PORTFOLIO
+# RESPONSIVE PORTFOLIO
+
+## ImageS
+
+![alt text](https://lh3.googleusercontent.com/IlBoDaOnDgsc0J-vumjqp83vfexGbbw6dtoz1iTppOyjqyxNTj1eRB_MBHg8LSIEKTLqxA=s350)
+
+![alt text](https://lh3.googleusercontent.com/sjjS5r8IgvMZvQRaNtrUZK1LgYinA1AiXEAxij0Cu3q2n8w6rh7pQelcfRilXf5q6bBcAA=s350)
+
+![alt text](https://lh3.googleusercontent.com/sMe60K2U7_euI5EtLzFERLzzcU1CwYy3vkonCEIz1cjl0PqJkIhKwIG0hepWIF_eLttbVw=s350)
+
+![alt text](https://lh3.googleusercontent.com/A-lRt8hxIlC-_WALsno_y047F7TAaYAfscKNPTcunUqukc9S45gVTXIx36tFQxDfExhS9Q=s350)
+
+
 
 
   ## Tecnologies Used
@@ -12,8 +24,9 @@
   develop quality of device
     and window or screen size. 
 
- ## Code Snippet
-
+ ## Code Snippet 
+ ## HTML
+   
      <nav class="container" >
   
      <nav class="card bg-white mt-3 mb-3">
@@ -77,5 +90,6 @@
 ## Author Links
       
 [LinkedIn](https://www.linkedin.com/in/abuye-mamuye-5a49921b0/)
+
 [GitHub](https://github.com/AbuyeM1)
  
